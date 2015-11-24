@@ -170,13 +170,14 @@
 @media all and (min-width: 600px) {
   /*.aside { flex: 1 auto; }*/
   .aside { flex: 1 0px; }
-  .aside2 { flex: 1 0px; }
+  .aside2 { flex: 1 40%; }
 }
 
 @media all and (min-width: 800px) {
   .main    { flex: 3 0px; }
   .aside-1 { order: 1; } 
   .main    { order: 2; }
+  .aside2  { flex: 1 0px; }
   .aside-2 { order: 3; }
   .aside-3 { order: 4; }
   .aside-4 { order: 5; }
