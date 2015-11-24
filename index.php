@@ -7,7 +7,10 @@
     <title>Flexbox Test for Libsite Design</title>
 
     <style>
-      body { margin: 0; }
+      body { 
+        margin: 0;
+        font-family: helvetica, arial, sans-serif;
+      }
 
       p { font-weight: 300; margin-top: 0.5em; }
 
@@ -39,7 +42,6 @@
       .page-bound-container {
         margin: 0 auto;
         max-width: 1024px;
-        font-family: helvetica, arial, sans-serif;
       }
 
 .navigation {
