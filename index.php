@@ -239,16 +239,16 @@
 
   <div class="wrapper">
     <aside class="aside2 aside-3">
-      <p>featurebox 1</p>
+      <p>featurebox 1 ('news' box with content from Vision and Update)</p>
     </aside>
     <aside class="aside2 aside-4">
-      <p>featurebox 2</p>
+      <p>featurebox 2 ('gw authors' box with randomized book cover from GW authored titles) </p>
     </aside>
     <aside class="aside2 aside-5">
-      <p>featurebox 3</p>
+      <p>featurebox 3 ('recent posts' box with recent blog post from Libraries blogs)</p>
     </aside>
     <aside class="aside2 aside-6">
-      <p>featurebox 4</p>
+      <p>featurebox 4 ('exhibits' this will load a featured exhibit or collection or latest item)</p>
     </aside>
   </div>
 
