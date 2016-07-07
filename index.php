@@ -233,7 +233,7 @@
       <p>Aside 1 (optional section menu) (front page: quick links)</p>
     </aside>
     <aside class="aside aside-2">
-      <p>Aside 2 (optional right sidebar) (front page: upcoming events)</p>
+      <p>Aside 2 (restricted-use sidebar (used only for special pages)) (front page: upcoming events)</p>
     </aside>
   </div>
 
@@ -254,7 +254,7 @@
 
   <div class="wrapper">
     <footer class="footer">
-      <p>MIT style expanded nav and "visitor based" links (and social media)</p>
+      <p>MIT style expanded nav and "visitor based" links / utility links (and social media)</p>
     </footer>
     <footer class="footer2">
       <p>footer with address and university links<p>
